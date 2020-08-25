@@ -1,0 +1,19 @@
+.container{
+    float: left;
+    width:320px;
+    height: 480px;
+    margin-right: 5px;
+    padding: 5px;
+}
+#camera{
+    background: #ff6666;
+    height: 480px;
+}
+#previa{
+    background: #ffc865;
+    height: 480px;
+}
+#salva{
+    background: #4dea02;
+    height: 480px;
+}
